@@ -1,0 +1,5 @@
+{
+  "name": "Neon Snake AI Master",
+  "description": "A feature-rich Snake game with multiple difficulty levels, speed settings, obstacles, and AI-powered performance analysis using Gemini.",
+  "requestFramePermissions": []
+}
